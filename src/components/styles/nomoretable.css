@@ -1,0 +1,36 @@
+body{
+  background: #F5F6F7;
+}
+.container {
+   
+    position: relative;
+  }
+  .center {
+    width: 90%;
+    padding-top: 140px;
+  }
+
+  .tablecon {
+      padding-top: 100px;
+      width: 80%;
+  }
+  .topic{
+    width: 100%;
+    background-color: #65599c;
+   
+  }  
+  .test1 {
+    color: white;
+    text-align: center;
+    padding: 2px;
+    background: #65599c; 
+    width: 100%;
+
+  }
+  .test2 {
+    padding: 10px;
+    padding-top: 10px;
+    background:  #65599c; 
+    width: 100%;
+
+  }

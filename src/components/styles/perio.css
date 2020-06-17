@@ -1,0 +1,89 @@
+body{
+  background: #F5F6F7;
+  scroll-behavior: smooth;
+}
+.c1 {
+   
+   width: 100%;
+   padding-top: 50px;
+  
+   
+  }
+  .c2 {
+    display: flex;
+    flex-direction: column;  
+   }
+   .th  {
+    background-color: #ced4da;
+    color: black;
+    font-size: 120%;
+    border-radius: 0px 0px 0px 0px;
+  }
+
+  .center {
+    width: 100%;
+    padding-top: 120px;
+  }
+ 
+  .topic{
+    width: 100%;
+    background-color: #65599c;
+   
+  }  
+  .test1 {
+    color: white;
+
+    padding: 2px;
+    background: #65599c; 
+    width: 100%;
+
+  }
+  .test2 {
+    padding: 10px;
+    padding-top: 10px;
+    background:  #65599c; 
+    width: 100%;
+
+  }
+  .input2[type=text] {
+    background-color: #fff;
+    width: 90%;
+    padding: 5px 10px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    
+  }
+  .border_bottom  {
+    border-bottom: 1px solid #ddd;
+  }
+  tr.each_row_bg {
+    background-color: rgba(245, 246, 247, 0.76);
+  }
+  .card .card-header {
+    background-color: #ced4da; 
+ 
+  }
+  .card .card-header2 {
+    background-color: #222222; 
+ 
+  }
+  
+  .sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: transparent;
+    font-size: 20px;
+  }
+ 
